@@ -1,0 +1,75 @@
+{
+    "111111111111111111": {
+        "name": "Matt",
+        "registered": "2025-03-06T17:32:16.764526",
+        "points": 24,
+        "weekly_points": 0,
+        "tasks": [
+            {
+                "description": "Tidy Your desk",
+                "type": "weekly",
+                "added": "2025-03-06T17:33:54.603416",
+                "deleted": null,
+                "is_completed": false,
+                "difficulty": 2
+            },
+            {
+                "description": "Do something nice for someone else.",
+                "type": "daily",
+                "added": "2025-03-06T17:34:08.360219",
+                "deleted": null,
+                "is_completed": false,
+                "difficulty": 1
+            }
+        ],
+        "personal_defaults": [
+            {
+                "description": "Rise and shine - enjoy a refreshing glass of water!",
+                "difficulty": 1
+            },
+            {
+                "description": "Splash your face and greet the day with a smile.",
+                "difficulty": 1
+            },
+            {
+                "description": "Brush your teefs until they sparkle.",
+                "difficulty": 1
+            },
+            {
+                "description": "Hop in the shower if you're feeling a bit groggy.",
+                "difficulty": 2
+            },
+            {
+                "description": "Quickly brush your hair for a neat look.",
+                "difficulty": 1
+            },
+            {
+                "description": "Change into fresh undies and a comfy tee.",
+                "difficulty": 1
+            },
+            {
+                "description": "Fuel up with a healthy meal or snack.",
+                "difficulty": 1
+            },
+            {
+                "description": "Take a light walk or stretch to get moving.",
+                "difficulty": 3
+            },
+            {
+                "description": "Do something fun that makes your heart sing.",
+                "difficulty": 1
+            },
+            {
+                "description": "Take 5 deep, mindful breaths.",
+                "difficulty": 1
+            }
+        ],
+        "daily_defaults": {
+            "date": "2025-04-01",
+            "completed": []
+        },
+        "last_journal": "",
+        "timezone": "America/New_York",
+        "paused": true
+    }
+}
